@@ -1,4 +1,4 @@
-# Hi, I'm DEVwannabe — an IT student exploring web development 👨‍💻
+# Hi, I'm DEVwannabe, an IT student exploring web development 👨‍💻
 
 I'm a 3rd year Information Technology student (20 y/o) with a growing interest in backend and frontend development. I use GitHub to share projects, track my learning journey, and improve my skills through practice.
 
@@ -33,7 +33,7 @@ I'm a 3rd year Information Technology student (20 y/o) with a growing interest i
 ## 📁 Projects & Practice
 
 I treat GitHub as a semi-profile and learning journal.  
-You’ll find small projects, experiments, and personal practice files — mostly web-based systems and student projects using PHP, JavaScript, and Bootstrap.
+You’ll find small projects, experiments, and personal practice files mostly web-based systems and student projects using PHP, JavaScript, and Bootstrap.
 
 ---
 
