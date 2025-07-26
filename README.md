@@ -1,6 +1,17 @@
 # Hi, I'm DEVwannabe 👨‍💻, a student exploring web development
 
-I'm a 3rd year Information Technology student (20 y/o) with a growing interest in backend and frontend development. I use GitHub to share projects, track my learning journey, and improve my skills through practice.
+I'm a 3rd year IT student (20 y/o) who's somehow survived this far without breaking the internet... yet.
+I have absolutely no idea what I'm doing half the time... but I do it anyway.
+Frontend? Backend? I just Google everything and... AI? Yesser! They explain things that our instructor didn't teach anyway.
+I love you, AIs.
+
+I use GitHub to share my “experiments,” track my attempts at learning, and pretend I know what version control is.
+GitHub is also where I store my experiments, bug collections, and occasional wins (after 37 tries).
+
+I specialize in confidently Googling errors I don’t understand and pasting code that “somehow works.”
+Laravel is currently my toxic coding relationship... I love it, it hurts me, and I come back anyway.
+
+This profile is 50% portfolio, 50% confusion, and 100% me trying my best.
 
 ---
 
