@@ -6,7 +6,7 @@ Frontend? Backend? I just Google everything and... AI? Yesser! They explain thin
 I love you, AIs.
 
 I use GitHub to share my “experiments,” track my attempts at learning, and pretend I know what version control is.
-GitHub is also where I store my experiments, bug collections, and occasional wins (after 37 tries).
+GitHub is also where I store my bug collections and occasional wins (after 37 tries).
 
 I specialize in confidently Googling errors I don’t understand and pasting code that “somehow works.”
 Laravel is currently my toxic coding relationship... I love it, it hurts me, and I come back anyway.
