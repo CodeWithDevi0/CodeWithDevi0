@@ -35,6 +35,7 @@ This profile is 50% portfolio, 50% confusion, and 100% me trying my best.
 
 ## 📚 Currently Learning
 
+- PHP 
 - Laravel (PHP Framework)
 - Improving my understanding of MVC and OOP principles
 - Version control workflows using Git and GitHub
