@@ -39,7 +39,7 @@ You’ll find small projects, experiments, and personal practice files — mostl
 
 ## 🔎 Goals
 
-- Become more confident with full-stack development
+- Become more confident in programming
 - Build more Laravel-based projects
 - Sharpen front-end and back-end integration skills
 
